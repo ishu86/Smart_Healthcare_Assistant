@@ -22,9 +22,4 @@ Your health data is safe with us. We follow stringent industry standards to prot
 
 ### 📈 **Continuous Evolution**  
 Our system constantly learns and improves. With each interaction, the machine learning models become smarter, offering even more accurate and relevant recommendations over time.  
-
----
-
-Take control of your health like never before with our **Personalized Medical Assistance Platform**. From predicting diseases to recommending actionable solutions, we are dedicated to helping you lead a healthier and happier life.  
-
-Start your journey to better health today! 🚀  
+ 
