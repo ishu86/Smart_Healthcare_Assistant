@@ -1,8 +1,7 @@
-# Smart_Healthcare_Assistant
 
-# Personalized Medical Assistance Platform with Machine Learning  
+# Smart Healthcare Assistant 
 
-Welcome to our **Personalized Medical Assistance Platform**, an innovative tool crafted to empower users in taking control of their health. Using advanced machine learning algorithms, this platform accurately predicts potential diseases based on symptoms you provide and offers tailored recommendations to help you manage your health better.  
+Welcome to our **Smart Healthcare Assistance Platform**, an innovative tool crafted to empower users in taking control of their health. Using advanced machine learning algorithms, this platform accurately predicts potential diseases based on symptoms you provide and offers tailored recommendations to help you manage your health better.  
 
 ## 🌟 Key Features  
 
